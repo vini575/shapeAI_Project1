@@ -1,0 +1,8 @@
+Enter the city name: shivamogga
+-------------------------------------------------------------
+Weather Stats for - SHIVAMOGGA  || 22 Jun 2021 | 03:55:55 AM
+-------------------------------------------------------------
+Current temperature is: 24.90 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 76 %
+Current wind speed    : 3.96 kmph
